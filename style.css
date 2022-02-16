@@ -112,8 +112,18 @@ h4 {
   font-weight: bold;
 }
 
+a.tbl-biru {
+  background: #3f72af;
+  border-radius: 20px;
+  margin-top: 20px;
+  padding: 15px 20px 15px 20px;
+  color: #ffffff;
+  cursor: pointer;
+  font-weight: bold;
+}
+
 a.tbl-biru:hover {
-  background: #fc5185;
+  background: #045322;
   text-decoration: none;
 }
 
